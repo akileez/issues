@@ -1,0 +1,35 @@
+{
+  "name": "issues",
+  "version": "0.1.0",
+  "description": "global todo list for public projects",
+  "main": "index.js",
+  "scripts": {
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akileez/issues.git"
+  },
+  "author": {
+    "name": "Keith Williams",
+    "email": "git@keeda.net",
+    "url": "https://github.com/akileez/issues"
+  },
+  "homepage": "https://github.com/akileez/issues",
+  "bugs": {
+    "url": "https://github.com/akileez/issues/issues"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ]
+}
